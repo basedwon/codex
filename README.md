@@ -45,9 +45,9 @@ const Codex = require('@basd/codex')
 ```js
 const codex = new Codex({
   user: {
-    name: '*string',
+    name: '*string', // * makes it required (default)
     age: 'number',
-    friend: '~user'
+    friend: '~user' // ~ makes it optional
   }
 })
 
