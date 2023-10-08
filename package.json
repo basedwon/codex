@@ -1,6 +1,6 @@
 {
   "name": "@basd/codex",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A flexible and robust package that provides a system for managing models, fields, and their validations.",
   "author": "Basedwon <basedwon@protonmail.com>",
   "license": "MIT",
