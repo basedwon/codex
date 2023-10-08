@@ -26,8 +26,8 @@
     "test": "testr test"
   },
   "dependencies": {
-    "@basd/registry": "^0.0.0",
-    "basd": "^1.0.9"
+    "@basd/registry": "^0.0.1",
+    "basd": "^1.0.13"
   },
   "devDependencies": {
     "@basd/testr": "^0.1.2",
